@@ -1,0 +1,12 @@
+{
+	"sign_up_successful": "Sign up successful",
+	"invalid_user_password_provided": "Invalid user or password provided",
+	"user_already_exists": "User already exists",
+	"input": {
+		"invalid": "input.invalid"
+	},
+	"token": {
+		"invalid": "token.invalid"
+	},
+	"article_not_found": "article_not_found"
+}

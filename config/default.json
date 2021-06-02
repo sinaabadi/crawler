@@ -1,0 +1,25 @@
+{
+  "port": 3002,
+  "swagger": {
+    "title": "crawler",
+    "version": "1.0.0",
+    "description": "crawler API.",
+    "baseUrl": "http://localhost:3002",
+    "adminPassword": "1234"
+  },
+  "sites": {
+    "economist": "https://www.economist.com/sitemap.xml"
+  },
+  "mongo": {
+    "url": "mongodb://localhost:27017/crawler"
+  },
+  "updateInterval": 540000,
+  "JWT": {
+    "key": "gIdNaEBNRZOL1233Y22FSPw",
+    "issuer": "sina",
+    "ttl": "30d"
+  },
+  "passwordHashSecret": "sQRx0+SnCjX2oIqWfOqZIg",
+  "nodeEnv": "development",
+  "serviceId": "crawler"
+}

@@ -1,0 +1,9 @@
+{
+  "port": "PORT",
+  "swagger": {
+    "title": "SWAGGER_TITLE",
+    "version": "npm_package_version",
+    "adminPassword": "SWAGGER_ADMIN_PASS"
+  },
+  "nodeEnv": "NODE_ENV"
+}
